@@ -1,0 +1,14 @@
+D:\Work\C#\Byte++\Lesson_01\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Work\C#\Byte++\Lesson_01\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Work\C#\Byte++\Lesson_01\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Work\C#\Byte++\Lesson_01\ConsoleApp1\obj\Debug\Les_01.csprojResolveAssemblyReference.cache
+D:\Work\C#\Byte++\Lesson_01\ConsoleApp1\obj\Debug\Les_01.csproj.CoreCompileInputs.cache
+D:\Work\C#\Byte++\Lesson_01\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Work\C#\Byte++\Lesson_01\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Work\GitHub\Lessons_C#\Les_01\bin\Debug\ConsoleApp1.exe.config
+D:\Work\GitHub\Lessons_C#\Les_01\bin\Debug\ConsoleApp1.exe
+D:\Work\GitHub\Lessons_C#\Les_01\bin\Debug\ConsoleApp1.pdb
+D:\Work\GitHub\Lessons_C#\Les_01\obj\Debug\Les_01.csprojResolveAssemblyReference.cache
+D:\Work\GitHub\Lessons_C#\Les_01\obj\Debug\Les_01.csproj.CoreCompileInputs.cache
+D:\Work\GitHub\Lessons_C#\Les_01\obj\Debug\ConsoleApp1.exe
+D:\Work\GitHub\Lessons_C#\Les_01\obj\Debug\ConsoleApp1.pdb
