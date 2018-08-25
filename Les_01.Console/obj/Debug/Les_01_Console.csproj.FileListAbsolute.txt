@@ -1,0 +1,9 @@
+D:\Work\GitHub\Lessons_CSharp\Les_01.Console\bin\Debug\ConsoleApp1.exe.config
+D:\Work\GitHub\Lessons_CSharp\Les_01.Console\bin\Debug\ConsoleApp1.exe
+D:\Work\GitHub\Lessons_CSharp\Les_01.Console\bin\Debug\ConsoleApp1.pdb
+D:\Work\GitHub\Lessons_CSharp\Les_01.Console\bin\Debug\ConsoleApp1.exe.CodeAnalysisLog.xml
+D:\Work\GitHub\Lessons_CSharp\Les_01.Console\bin\Debug\ConsoleApp1.exe.lastcodeanalysissucceeded
+D:\Work\GitHub\Lessons_CSharp\Les_01.Console\obj\Debug\Les_01_Console.csprojResolveAssemblyReference.cache
+D:\Work\GitHub\Lessons_CSharp\Les_01.Console\obj\Debug\Les_01_Console.csproj.CoreCompileInputs.cache
+D:\Work\GitHub\Lessons_CSharp\Les_01.Console\obj\Debug\ConsoleApp1.exe
+D:\Work\GitHub\Lessons_CSharp\Les_01.Console\obj\Debug\ConsoleApp1.pdb
