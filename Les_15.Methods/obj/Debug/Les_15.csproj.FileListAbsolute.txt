@@ -1,0 +1,7 @@
+D:\Work\C#\Byte++\Lesson_01\Les_15\bin\Debug\Les_15.exe.config
+D:\Work\C#\Byte++\Lesson_01\Les_15\bin\Debug\Les_15.exe
+D:\Work\C#\Byte++\Lesson_01\Les_15\bin\Debug\Les_15.pdb
+D:\Work\C#\Byte++\Lesson_01\Les_15\obj\Debug\Les_15.csprojResolveAssemblyReference.cache
+D:\Work\C#\Byte++\Lesson_01\Les_15\obj\Debug\Les_15.csproj.CoreCompileInputs.cache
+D:\Work\C#\Byte++\Lesson_01\Les_15\obj\Debug\Les_15.exe
+D:\Work\C#\Byte++\Lesson_01\Les_15\obj\Debug\Les_15.pdb
