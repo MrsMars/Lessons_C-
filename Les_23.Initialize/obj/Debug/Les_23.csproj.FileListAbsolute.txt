@@ -1,0 +1,6 @@
+D:\Work\C#\Byte++\Lesson_01\Les_23\bin\Debug\Les_23.exe.config
+D:\Work\C#\Byte++\Lesson_01\Les_23\bin\Debug\Les_23.exe
+D:\Work\C#\Byte++\Lesson_01\Les_23\bin\Debug\Les_23.pdb
+D:\Work\C#\Byte++\Lesson_01\Les_23\obj\Debug\Les_23.csproj.CoreCompileInputs.cache
+D:\Work\C#\Byte++\Lesson_01\Les_23\obj\Debug\Les_23.exe
+D:\Work\C#\Byte++\Lesson_01\Les_23\obj\Debug\Les_23.pdb
