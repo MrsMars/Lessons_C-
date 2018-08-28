@@ -1,0 +1,7 @@
+D:\Work\C#\Byte++\Lesson_01\Les_28.4\bin\Debug\Les_28.4.exe.config
+D:\Work\C#\Byte++\Lesson_01\Les_28.4\bin\Debug\Les_28.4.exe
+D:\Work\C#\Byte++\Lesson_01\Les_28.4\bin\Debug\Les_28.4.pdb
+D:\Work\C#\Byte++\Lesson_01\Les_28.4\obj\Debug\Les_28.4.csproj.CoreCompileInputs.cache
+D:\Work\C#\Byte++\Lesson_01\Les_28.4\obj\Debug\Les_28.4.exe
+D:\Work\C#\Byte++\Lesson_01\Les_28.4\obj\Debug\Les_28.4.pdb
+D:\Work\C#\Byte++\Lesson_01\Les_28.4\obj\Debug\Les_28.4.csprojResolveAssemblyReference.cache
