@@ -1,0 +1,6 @@
+D:\Work\C#\Byte++\Lesson_01\Les_34.5\obj\Debug\Les_34.5.csproj.CoreCompileInputs.cache
+D:\Work\C#\Byte++\Lesson_01\Les_34.5\bin\Debug\Les_34.5.exe.config
+D:\Work\C#\Byte++\Lesson_01\Les_34.5\bin\Debug\Les_34.5.exe
+D:\Work\C#\Byte++\Lesson_01\Les_34.5\bin\Debug\Les_34.5.pdb
+D:\Work\C#\Byte++\Lesson_01\Les_34.5\obj\Debug\Les_34.5.exe
+D:\Work\C#\Byte++\Lesson_01\Les_34.5\obj\Debug\Les_34.5.pdb
