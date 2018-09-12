@@ -1,0 +1,7 @@
+D:\Work\C#\Byte++\Lesson_01\Les_44\bin\Debug\Les_44.exe.config
+D:\Work\C#\Byte++\Lesson_01\Les_44\bin\Debug\Les_44.exe
+D:\Work\C#\Byte++\Lesson_01\Les_44\bin\Debug\Les_44.pdb
+D:\Work\C#\Byte++\Lesson_01\Les_44\obj\Debug\Les_44.csproj.CoreCompileInputs.cache
+D:\Work\C#\Byte++\Lesson_01\Les_44\obj\Debug\Les_44.exe
+D:\Work\C#\Byte++\Lesson_01\Les_44\obj\Debug\Les_44.pdb
+D:\Work\C#\Byte++\Lesson_01\Les_44\obj\Debug\Les_44.csprojResolveAssemblyReference.cache
